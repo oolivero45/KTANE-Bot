@@ -9,3 +9,14 @@ D:\VS Projects\KTANE-Bot\obj\Debug\KTANE-Bot.csproj.CoreCompileInputs.cache
 D:\VS Projects\KTANE-Bot\obj\Debug\KTANE-Bot.exe
 D:\VS Projects\KTANE-Bot\obj\Debug\KTANE-Bot.pdb
 D:\VS Projects\KTANE-Bot\obj\Debug\KTANE-Bot.csproj.SuggestedBindingRedirects.cache
+C:\Users\Oliver\Source\Repos\oolivero45\KTANE-Bot\bin\Debug\KTANE-Bot.exe.config
+C:\Users\Oliver\Source\Repos\oolivero45\KTANE-Bot\bin\Debug\KTANE-Bot.exe
+C:\Users\Oliver\Source\Repos\oolivero45\KTANE-Bot\bin\Debug\KTANE-Bot.pdb
+C:\Users\Oliver\Source\Repos\oolivero45\KTANE-Bot\obj\Debug\KTANE-Bot.csproj.AssemblyReference.cache
+C:\Users\Oliver\Source\Repos\oolivero45\KTANE-Bot\obj\Debug\KTANE-Bot.csproj.SuggestedBindingRedirects.cache
+C:\Users\Oliver\Source\Repos\oolivero45\KTANE-Bot\obj\Debug\KTANE_Bot.Form1.resources
+C:\Users\Oliver\Source\Repos\oolivero45\KTANE-Bot\obj\Debug\KTANE_Bot.Properties.Resources.resources
+C:\Users\Oliver\Source\Repos\oolivero45\KTANE-Bot\obj\Debug\KTANE-Bot.csproj.GenerateResource.cache
+C:\Users\Oliver\Source\Repos\oolivero45\KTANE-Bot\obj\Debug\KTANE-Bot.csproj.CoreCompileInputs.cache
+C:\Users\Oliver\Source\Repos\oolivero45\KTANE-Bot\obj\Debug\KTANE-Bot.exe
+C:\Users\Oliver\Source\Repos\oolivero45\KTANE-Bot\obj\Debug\KTANE-Bot.pdb

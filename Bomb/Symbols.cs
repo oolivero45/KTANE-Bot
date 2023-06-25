@@ -11,7 +11,7 @@ namespace KTANE_Bot
             { "capital ay", 1 },
             { "lambda", 2 },
             { "lightning", 3 },
-            { "kitty", 4 },
+            { "octopus", 4 },
             { "kappa", 5 },
             { "reverse dotted c", 6 }
         };
@@ -43,7 +43,7 @@ namespace KTANE_Bot
             { "six", 0 },
             { "paragraph", 1 },
             { "tampa bay", 2 },
-            { "kitty", 3 },
+            { "octopus", 3 },
             { "ex eye", 4 },
             { "question mark", 5 },
             { "smiley face", 6 }

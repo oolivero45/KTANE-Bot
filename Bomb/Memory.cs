@@ -16,7 +16,14 @@ namespace KTANE_Bot
             { "one", 1 },
             { "two", 2 },
             { "three", 3 },
-            { "four", 4 }
+            { "four", 4 },
+            { "won", 1 },
+            { "to", 2 },
+            { "too", 2 },
+            { "free", 3 },
+            { "on", 1 },
+            { "for", 4 },
+            { "or", 4 }
         };
 
         public Memory(Bomb bomb) : base(bomb)

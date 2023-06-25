@@ -2,7 +2,7 @@ capital queue
 capital ay
 lambda
 lightning
-kitty
+octopus
 kappa
 reverse dotted c
 e with umlaut
